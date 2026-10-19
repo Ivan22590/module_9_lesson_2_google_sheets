@@ -1,0 +1,15 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Переменные окружения с секретами
+.env
+
+# Google сервисный аккаунт (JSON-ключ)
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.DS_Store
